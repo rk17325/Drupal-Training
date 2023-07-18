@@ -1,0 +1,26 @@
+/* body {
+    padding: 5px;
+  } */
+  .team-member {
+    text-align: center;
+  }
+  .contact-form {
+    margin-bottom: 30px;
+  }
+  .map-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    height: 450px;
+  }
+  .col-lg-3{
+    margin-left: 5%;
+  }
+  .card-body{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+  }
+  img:hover {
+    /* padding: 10px; */
+    box-shadow: 5px 10px 8px #888888;
+  }
